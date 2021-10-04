@@ -1,0 +1,10 @@
+bokeh==2.4.0
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+numpy==1.21.2
+packaging==21.0
+Pillow==8.3.2
+pyparsing==2.4.7
+PyYAML==5.4.1
+tornado==6.1
+typing-extensions==3.10.0.2
